@@ -17,15 +17,15 @@ h1.title {
   padding: 4px;
   vertical-align: middle;
 }
-div.summary h2, div.actors h2 {
+.summary h2, .actors h2 {
   margin-top: 0;
 }
-div.actors li {
+.actors li {
   line-height: 24px;
 }
-div.reviews {
+.reviews {
   border-top: solid 1px #CCC;
 }
-div.review {
+.review {
   margin-bottom: 30px;
 }
